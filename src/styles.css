@@ -1,0 +1,11 @@
+#sidebar {
+  min-height: 100vh;
+}
+
+#sidebar .nav-link {
+  padding: 10px 15px;
+}
+
+#sidebar .nav-link.active {
+  background-color: #007bff;
+}
